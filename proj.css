@@ -1,0 +1,440 @@
+.ght {
+    height: 5cm;
+    width: 5cm;
+    border-radius: 48%;
+    padding-left: 1.7cm;
+    padding-top: 0.6cm;
+    opacity: 0.6;
+}
+
+.abc {
+    height: 3.3cm;
+    width: 3.3cm;
+    border-radius: 30%;
+    padding-right: 3cm;
+    padding-top: 1cm;
+    opacity: 0.7;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 2cm;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#corner {
+    border-radius: 25px;
+    width: 84%;
+    margin-left: 1.5cm;
+    margin-top: 0.5cm;
+}
+
+#hd {
+    padding-top: 0.5cm;
+    padding-left: 4cm;
+    padding-bottom: 0%;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 0.8;
+    color: rgba(224, 43, 11, 0.836);
+}
+
+.menu {
+
+    width: 45%;
+    float: left;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mai {
+    width: 45%;
+    padding-top: 9.5cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 7cm;
+    top: 8px;
+    right: 8.5cm;
+
+
+}
+
+.iam {
+    width: 45%;
+    padding-top: 9.5cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 7cm;
+    top: 8px;
+    right: 3cm;
+
+}
+
+.mj {
+    width: 45%;
+    padding-top: 18.3cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 7cm;
+    top: 8px;
+    right: 8.5cm;
+}
+
+.jim {
+    width: 45%;
+    padding-top: 18.3cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 7cm;
+    top: 8px;
+    right: 3cm;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: -1.1cm;
+    left: 21cm;
+    color: rgb(226, 11, 11);
+    font-size: medium;
+    background-color: rgb(240, 184, 221);
+    font-style: italic;
+}
+
+.bottom {
+    position: absolute;
+    bottom: -1.1cm;
+    left: 27cm;
+    color: rgb(226, 11, 11);
+    font-size: medium;
+    background-color: rgb(240, 184, 221);
+    font-style: italic;
+}
+
+.top {
+    position: absolute;
+    bottom: -9.9cm;
+    left: 21cm;
+    color: rgb(226, 11, 11);
+    font-size: medium;
+    background-color: rgb(240, 184, 221);
+    font-style: italic;
+}
+
+.il {
+    position: absolute;
+    bottom: -9.9cm;
+    left: 27cm;
+    color: rgb(226, 11, 11);
+    font-size: medium;
+    background-color: rgb(240, 184, 221);
+    font-style: italic;
+}
+
+.to {
+    width: 15%;
+    float: left;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+}
+
+.rr {
+    padding-top: 0.9cm;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5;
+}
+
+.r {
+    width: 45%;
+    line-height: 0%;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.rf {
+    line-height: 2.5;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(224, 43, 11, 0.836)
+}
+
+.re {
+    width: 37%;
+    line-height: 1;
+    padding-left: 3.5cm;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jk {
+    width: 45%;
+    padding-top: 28cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 4cm;
+    top: 8px;
+    right: 9.5cm;
+}
+
+.rm {
+    width: 45%;
+    padding-top: 28cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 4cm;
+    top: 8px;
+    right: 3cm;
+}
+
+.v {
+    width: 45%;
+    padding-top: 32.5cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 4cm;
+    top: 8px;
+    right: 9.5cm;
+}
+
+.jho {
+    width: 45%;
+    padding-top: 32.5cm;
+    padding-left: 5cm;
+    position: absolute;
+    width: 6cm;
+    height: 4cm;
+    top: 8px;
+    right: 3cm;
+}
+
+.ii {
+    width: 893px;
+    height: 31px;
+}
+
+.gg {
+    padding-top: 2cm;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ll {
+    font-size: large;
+    line-height: 0;
+}
+
+.at {
+    width: 45%;
+    float: left;
+    padding-left: 5.5cm;
+    height: 6cm;
+    width: 5cm;
+    padding-top: 0.8cm;
+}
+
+.new {
+    width: 45%;
+    padding-top: 12cm;
+    text-align: center;
+    position: absolute;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 10cm;
+}
+
+.now {
+    width: 45%;
+    padding-top: 12.7cm;
+    text-align: center;
+    position: absolute;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 7.5cm;
+}
+
+.kk {
+    width: 45%;
+    padding-top: 18cm;
+    text-align: center;
+    position: absolute;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 9cm;
+}
+
+.jj {
+    width: 45%;
+    padding-top: 17cm;
+    text-align: center;
+    position: absolute;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 10cm;
+}
+
+#fck {
+    padding-top: 7.6cm;
+    padding-left: 14cm;
+    height: 4cm;
+}
+
+.tea {
+    width: 45%;
+    float: left;
+    padding-left: 5.5cm;
+    height: 6cm;
+    width: 5cm;
+    padding-top: 1.5cm;
+
+}
+
+.tete {
+    width: 45%;
+    padding-top: 24cm;
+    text-align: center;
+    position: absolute;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 10cm;
+}
+
+.ete {
+    width: 45%;
+    padding-top: 25cm;
+    text-align: center;
+    position: absolute;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 7.5cm;
+}
+
+.lipi {
+    padding-top: 9cm;
+    padding-left: 14cm;
+    height: 4cm;
+}
+
+.et {
+    width: 45%;
+    padding-top: 32cm;
+    text-align: center;
+    position: absolute;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 9cm;
+}
+
+.tr {
+    width: 45%;
+    padding-top: 31cm;
+    text-align: center;
+    position: absolute;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 10cm;
+}
+
+.yip {
+    width: 45%;
+    padding-top: 36.5cm;
+    text-align: center;
+    position: absolute;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 10cm;
+}
+
+.yipi {
+    width: 45%;
+    padding-top: 37.5cm;
+    text-align: center;
+    position: absolute;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    top: 8px;
+    right: 7.5cm;
+}
+
+.wer {
+    width: 45%;
+    padding-top: 26cm;
+    padding-left: 10cm;
+    position: absolute;
+    width: 6cm;
+    height: 7cm;
+    top: 8px;
+    right: 2.5cm;
+    font-size: large;
+    color: rgb(18, 18, 121);
+}
+
+.rap{
+    width: 185px;
+    aspect-ratio: auto 185 / 257;
+    height: 257px;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+table{
+    width: 901px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    -webkit-border-horizontal-spacing: 0px;
+    -webkit-border-vertical-spacing: 0px;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
